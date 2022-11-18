@@ -1,9 +1,9 @@
-//Cambiamos el encabezado en el estilo de letra.
+/*Cambiamos el encabezado en el estilo de letra.*/
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-//le damos estilo al body dandole espacios y márgernes. Y lo cuadriculamos con grid.
+/*le damos estilo al body dandole espacios y márgernes. Y lo cuadriculamos con grid.*/
 
 body{
     padding:20px;
@@ -14,7 +14,7 @@ body{
     display: grid;
 }
 
-//le ponemos un color de fondo al background.
+/*le ponemos un color de fondo al background.*/
 footer{
     background-color: gray;
     
